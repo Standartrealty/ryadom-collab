@@ -1,0 +1,12 @@
+node_modules/
+.vercel/
+.env*
+.admin-access.txt
+.local-data/
+public/index.html
+public/sitemap.xml
+public/robots.txt
+
+public/data.js
+public/render.js
+public/views.js
